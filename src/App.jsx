@@ -5,7 +5,7 @@ import Stop from './components/Stop.jsx'
 import Repeat from './components/Repeat.jsx'
 import Functional from './components/Functional.jsx'
 import Rewrite from './components/Rewrite.jsx'
-
+import Counter from './components/Counter.jsx'
 
 function App() {
 
@@ -18,6 +18,7 @@ function App() {
       <Repeat />
       <Functional />
       <Rewrite />
+      <Counter />
     </>
   )
 }
